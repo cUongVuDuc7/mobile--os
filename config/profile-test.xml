@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="OnPlus Android">
+    <parameter name="cloudPlatform" value=""></parameter>
+    <parameter name="deviceName" value=""/>
+    <parameter name="version" value=""/>
+    <listeners>
+        <listener class-name="helpers.MyListener"/>
+    </listeners>
+    <test name="Profile Test">
+        <classes>
+            <class name="tests.ProfileTest">
+                <methods>
+                    <include name="PF_1"/>
+<!--                    <include name="PF_2"/>-->
+<!--                    <include name="PF_3"/>-->
+<!--                    <include name="PF_5"/>-->
+<!--                    <include name="PF_6"/>-->
+<!--                    <include name="PF_7"/>-->
+<!--                    <include name="PF_12"/>-->
+<!--                    <include name="PF_13_14"/>-->
+<!--                    <include name="PF_15"/>-->
+<!--                    <include name="PF_16"/>-->
+<!--                    <include name="PF_18"/>-->
+<!--                    <include name="PF_19"/>-->
+<!--                    <include name="PF_20_21"/>-->
+<!--                    <include name="PF_22"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

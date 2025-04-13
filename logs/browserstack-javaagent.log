@@ -1,0 +1,920 @@
+09:56:22.615 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:57:52.931 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:59:21.005 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:00:19.168 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:49:16.375 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:50:56.329 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:57:35.286 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+11:57:35.288 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:57:35.289 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+11:57:35.460 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:57:35.461 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:57:35.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+11:57:35.810 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+11:57:40.259 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+11:57:40.991 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:57:42.967 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:57:42.969 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:57:47.628 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:57:51.751 [Thread-0] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+11:57:55.422 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+11:57:55.424 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:57:55.424 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+11:57:55.579 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:57:55.580 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:57:55.929 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+11:57:55.929 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+11:57:57.628 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:57:57.629 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:58:00.589 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+11:58:01.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:58:03.346 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:58:03.348 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:58:07.452 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:58:13.372 [ThreadedStreamConsumer] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+11:58:15.085 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:58:24.538 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:58:24.540 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:59:48.018 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+11:59:48.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+11:59:48.021 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+11:59:48.193 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:59:48.193 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:59:48.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+11:59:48.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+11:59:52.898 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+11:59:53.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+11:59:55.247 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+11:59:55.249 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+11:59:59.586 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:00:10.344 [ThreadedStreamConsumer] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:00:12.125 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:00:21.942 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:00:21.944 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:01:31.257 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:02:55.226 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:05:47.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:05:47.035 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:05:47.035 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:05:47.220 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:05:47.221 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /browserstack.yml
+12:05:47.222 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of /Users/cuongvu/AutomationTest/automation-ios. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+12:05:47.223 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of /Users/cuongvu/AutomationTest/automation-ios. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:05:59.659 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:09:36.675 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:12:31.086 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:13:59.248 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:13:59.250 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:13:59.250 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:13:59.417 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:13:59.418 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:13:59.476 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:14:13.584 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:14:13.586 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:14:13.586 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:14:13.751 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:14:13.752 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:14:13.810 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:14:19.039 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+12:14:19.041 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.5.1
+12:14:19.224 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/Users/cuongvu/AutomationTest/automation-ios, idea.version=2023.2.8, allure.results.directory=target/allure-results, user.dir=/Users/cuongvu/AutomationTest/automation-ios, localrepository=/Users/cuongvu/.m2/repository}
+12:14:19.224 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:14:19.262 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:14:19.273 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:14:19.969 [main] DEBUG c.browserstack.utils.LogReportingAPI - [2024-11-21T05:14:19.966990Z][ OBSERVABILITY ] Processing Logs patching stream
+12:14:19.983 [beforeSuite@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunStarted, Method ClassName :: core.BaseTest 
+12:14:19.983 [beforeSuite@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:20.010 [beforeSuite@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.011 [beforeSuite@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.014 [beforeSuite@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookStarted
+12:14:20.019 [beforeSuite@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.019 [beforeSuite@null] TRACE com.browserstack.testOps.Listener - hookStarted: called with JSON data
+12:14:20.019 [beforeSuite@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunStarted
+12:14:20.045 [setFile@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunStarted, Method ClassName :: core.BaseTest 
+12:14:20.045 [setFile@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:20.055 [setFile@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.056 [setFile@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.056 [setFile@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookStarted
+12:14:20.056 [setFile@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.056 [setFile@null] TRACE com.browserstack.testOps.Listener - hookStarted: called with JSON data
+12:14:20.056 [setFile@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunStarted
+12:14:20.199 [firstSteps@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunStarted, Method ClassName :: tests.loginsignup.LoginTest 
+12:14:20.199 [firstSteps@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.213 [firstSteps@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.215 [firstSteps@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.215 [firstSteps@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookStarted
+12:14:20.215 [firstSteps@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.215 [firstSteps@null] TRACE com.browserstack.testOps.Listener - hookStarted: called with JSON data
+12:14:20.215 [firstSteps@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunStarted
+12:14:20.488 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.488 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.501 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.502 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.510 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.511 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.511 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.512 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.562 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunFinished, Method ClassName :: core.BaseTest 
+12:14:20.563 [LG_1@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:20.571 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.572 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.573 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookFinished
+12:14:20.573 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.573 [LG_1@null] TRACE com.browserstack.testOps.Listener - hookFinished: called with JSON data
+12:14:20.574 [LG_1@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunFinished
+12:14:20.577 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunFinished, Method ClassName :: core.BaseTest 
+12:14:20.577 [LG_1@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:20.584 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.584 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.585 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookFinished
+12:14:20.586 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.586 [LG_1@null] TRACE com.browserstack.testOps.Listener - hookFinished: called with JSON data
+12:14:20.586 [LG_1@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunFinished
+12:14:20.586 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunFinished, Method ClassName :: tests.loginsignup.LoginTest 
+12:14:20.586 [LG_1@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.597 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.598 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.599 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookFinished
+12:14:20.599 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.599 [LG_1@null] TRACE com.browserstack.testOps.Listener - hookFinished: called with JSON data
+12:14:20.599 [LG_1@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunFinished
+12:14:20.599 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.599 [LG_1@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.611 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.611 [LG_1@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.616 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.616 [LG_1@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.616 [LG_1@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.616 [LG_1@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.616 [LG_1@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.639 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.639 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.652 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.654 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.660 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.660 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.660 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.660 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.677 [LG_2@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.677 [LG_2@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.694 [LG_2@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.695 [LG_2@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.702 [LG_2@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.702 [LG_2@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.702 [LG_2@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.703 [LG_2@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.703 [LG_2@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.721 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.721 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.734 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.735 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.742 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.742 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.742 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.742 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.757 [LG_3@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.758 [LG_3@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.769 [LG_3@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.770 [LG_3@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.780 [LG_3@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.780 [LG_3@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.780 [LG_3@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.780 [LG_3@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.780 [LG_3@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.799 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.800 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.813 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.814 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.825 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.825 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.825 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.825 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.836 [LG_4@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.836 [LG_4@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.847 [LG_4@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.848 [LG_4@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.853 [LG_4@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.853 [LG_4@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.853 [LG_4@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.853 [LG_4@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.854 [LG_4@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.858 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.858 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.868 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.868 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.874 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.875 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.875 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.875 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.885 [LG_5@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.885 [LG_5@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.896 [LG_5@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.897 [LG_5@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.903 [LG_5@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.903 [LG_5@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.903 [LG_5@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.903 [LG_5@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.903 [LG_5@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.908 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.908 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.920 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.920 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.924 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:20.924 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.924 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:20.924 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:20.942 [LG_6@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.942 [LG_6@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.958 [LG_6@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.958 [LG_6@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:20.962 [LG_6@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:20.962 [LG_6@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:20.962 [LG_6@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:20.963 [LG_6@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:20.963 [LG_6@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:20.981 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:20.984 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:20.997 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:20.997 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.002 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.002 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.002 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.002 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.017 [LG_7@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.018 [LG_7@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.030 [LG_7@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.031 [LG_7@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.035 [LG_7@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.036 [LG_7@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.036 [LG_7@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.036 [LG_7@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.036 [LG_7@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.042 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.043 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.054 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.055 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.059 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.059 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.059 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.059 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.069 [LG_8@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.070 [LG_8@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.082 [LG_8@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.082 [LG_8@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.087 [LG_8@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.087 [LG_8@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.087 [LG_8@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.087 [LG_8@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.087 [LG_8@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.097 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.097 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.109 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.110 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.113 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.114 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.114 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.114 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.124 [LG_9_10@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.126 [LG_9_10@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.137 [LG_9_10@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.139 [LG_9_10@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.142 [LG_9_10@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.143 [LG_9_10@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.143 [LG_9_10@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.143 [LG_9_10@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.143 [LG_9_10@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.150 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.150 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.160 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.160 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.164 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.164 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.164 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.164 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.176 [LG_25@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.176 [LG_25@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.187 [LG_25@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.187 [LG_25@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.193 [LG_25@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.193 [LG_25@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.194 [LG_25@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.194 [LG_25@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.194 [LG_25@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.201 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.201 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.212 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.212 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.216 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.216 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.216 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.216 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.228 [LG_26@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.228 [LG_26@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.239 [LG_26@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.240 [LG_26@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.245 [LG_26@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.245 [LG_26@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.245 [LG_26@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.245 [LG_26@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.245 [LG_26@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.250 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.250 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.261 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.261 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.265 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.265 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.265 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.265 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.274 [LG_11@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.274 [LG_11@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.286 [LG_11@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.286 [LG_11@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.290 [LG_11@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.290 [LG_11@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.290 [LG_11@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.290 [LG_11@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.290 [LG_11@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.298 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.298 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.309 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.309 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.313 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.313 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.313 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.313 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.325 [LG_27@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.325 [LG_27@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.337 [LG_27@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.337 [LG_27@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.342 [LG_27@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.343 [LG_27@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.343 [LG_27@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.343 [LG_27@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.343 [LG_27@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.349 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.349 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.360 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.360 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.364 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.364 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.364 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.364 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.375 [LG_28@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.375 [LG_28@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.388 [LG_28@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.389 [LG_28@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.394 [LG_28@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.394 [LG_28@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.394 [LG_28@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.394 [LG_28@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.395 [LG_28@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.400 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.400 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.411 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.416 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.423 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.423 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.423 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.423 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.446 [LG_14@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.446 [LG_14@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.460 [LG_14@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.460 [LG_14@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.464 [LG_14@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.465 [LG_14@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.465 [LG_14@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.465 [LG_14@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.465 [LG_14@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.470 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.470 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.481 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.481 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.485 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.486 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.486 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.486 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.515 [LG_15@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.516 [LG_15@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.528 [LG_15@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.528 [LG_15@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.535 [LG_15@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.535 [LG_15@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.536 [LG_15@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.536 [LG_15@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.536 [LG_15@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.544 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunStarted, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.544 [Login Test@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.554 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.555 [Login Test@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.558 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testStarted
+12:14:21.558 [Login Test@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.558 [Login Test@null] TRACE com.browserstack.testOps.Listener - testStarted: called with json object
+12:14:21.558 [Login Test@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunStarted
+12:14:21.579 [LG_16@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: TestRunSkipped, Test ClassName :: tests.loginsignup.LoginTest 
+12:14:21.580 [LG_16@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: tests/loginsignup/LoginTest
+12:14:21.592 [LG_16@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/src/test/java/tests/loginsignup/LoginTest.java, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.593 [LG_16@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/src/test/java/tests/loginsignup/LoginTest.java, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.599 [LG_16@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method testFinished
+12:14:21.599 [LG_16@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.599 [LG_16@null] TRACE com.browserstack.testOps.Listener - testFinished: called with json data
+12:14:21.599 [LG_16@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind TestRunFinished
+12:14:21.599 [LG_16@null] DEBUG c.browserstack.utils.LogReportingAPI - sendSync failed - driver not found
+12:14:21.607 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunStarted, Method ClassName :: core.BaseTest 
+12:14:21.607 [tearDown@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:21.614 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.614 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.614 [tearDown@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookStarted
+12:14:21.614 [tearDown@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.614 [tearDown@null] TRACE com.browserstack.testOps.Listener - hookStarted: called with JSON data
+12:14:21.614 [tearDown@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunStarted
+12:14:21.617 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Event Type :: HookRunFinished, Method ClassName :: core.BaseTest 
+12:14:21.617 [tearDown@null] DEBUG c.browserstack.utils.UtilityMethods - [findFileMatcher] Current Path is :: /Users/cuongvu/AutomationTest/automation-ios, TestClass :: core/BaseTest
+12:14:21.623 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] The filename fetched :: /Users/cuongvu/AutomationTest/automation-ios/target/classes/core/BaseTest.class, fileSeparator :: /, AbsolutePath :: /Users/cuongvu/AutomationTest/automation-ios/., Normalized Path :: /Users/cuongvu/AutomationTest/automation-ios, File.Separator :: /
+12:14:21.623 [tearDown@null] DEBUG c.b.testNgListeners.TestNGUtils - [populateTestDataForBSTestOps] Replaced File Name is :: automation-ios/target/classes/core/BaseTest.class, Absolute Path :: /Users/cuongvu/AutomationTest/automation-ios/.., Normalized Path :: /Users/cuongvu/AutomationTest 
+12:14:21.623 [tearDown@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: Invoking method hookFinished
+12:14:21.623 [tearDown@null] TRACE c.b.u.ConditionalInvocationHandler - invoke: should invoke method true
+12:14:21.623 [tearDown@null] TRACE com.browserstack.testOps.Listener - hookFinished: called with JSON data
+12:14:21.623 [tearDown@null] DEBUG com.browserstack.testOps.Listener - [ TESTHUB ] Processing Request Kind HookRunFinished
+12:16:35.671 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:16:35.673 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:16:35.673 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:16:35.843 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:16:35.844 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:16:35.904 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:16:43.600 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:26:02.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:26:02.857 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:26:02.857 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:26:03.031 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:26:03.031 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:26:03.088 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:27:59.092 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:27:59.094 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:27:59.094 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:27:59.265 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:27:59.265 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:27:59.322 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:28:33.481 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:31:26.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:31:26.506 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:31:26.506 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:31:26.679 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:31:26.679 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:31:26.737 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.ClassCastException: class java.util.LinkedHashMap cannot be cast to class java.util.ArrayList (java.util.LinkedHashMap and java.util.ArrayList are in module java.base of loader 'bootstrap')
+	at com.browserstack.config.BrowserStackConfig.a(Unknown Source)
+	at java.base/java.util.HashMap$EntrySet.forEach(HashMap.java:1126)
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+12:31:39.131 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:34:14.082 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:34:14.084 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:34:14.084 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:34:14.253 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:34:14.253 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:34:14.604 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:34:14.604 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:34:20.200 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:34:21.005 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:34:23.259 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:34:23.261 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:34:27.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:34:33.901 [fork-1-event-thread] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:34:35.478 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:34:45.822 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:34:45.824 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:36:35.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:36:35.036 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:36:35.036 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:36:35.207 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:36:35.208 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:36:35.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:36:35.557 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:36:40.153 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:36:40.821 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:36:42.723 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:36:42.726 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:36:48.037 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:36:52.223 [Thread-0] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:36:57.296 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:36:57.297 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:37:10.020 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:38:52.161 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:38:52.164 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:38:52.164 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:38:52.349 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:38:52.349 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:38:52.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:38:52.708 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:38:57.497 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:38:58.042 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:38:59.969 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:38:59.971 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:39:04.347 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:39:15.271 [fork-1-event-thread] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:39:16.892 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:39:26.416 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:39:26.418 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:41:25.215 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:41:25.218 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:41:25.218 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:41:25.389 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:41:25.390 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:41:25.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:41:25.742 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:41:29.760 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:41:30.407 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:41:32.224 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:41:32.227 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:41:36.528 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:41:47.408 [fork-1-event-thread] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:41:49.620 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:42:00.972 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:42:00.974 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:42:55.001 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:42:55.003 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:42:55.004 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:42:55.174 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:42:55.175 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:42:55.535 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:42:55.536 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:43:00.580 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:43:01.349 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:43:03.361 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:43:03.364 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:43:07.844 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:43:18.790 [fork-1-event-thread] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:43:20.387 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:43:30.735 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:43:30.737 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:46:01.066 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:46:01.069 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:46:01.069 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:46:01.247 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:46:01.247 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:46:01.599 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:46:01.599 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:46:06.026 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:46:06.589 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:46:08.466 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:46:08.469 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:46:12.720 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:46:14.477 [Thread-0] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:46:18.278 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 
+12:46:18.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:46:18.282 [main] DEBUG c.browserstack.BrowserStackJavaAgent - No selenium, appium or playwright found. Classpath is /Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.7.0.jar
+12:46:18.453 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:46:18.454 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:46:18.802 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://492a019f804bd7e5d988873b9eb60745aab166a5]
+12:46:18.802 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to java
+12:46:19.739 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:46:19.742 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:46:23.133 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:46:23.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:46:25.712 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:46:25.714 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /Users/cuongvu/AutomationTest/automation-ios/browserstack.yml
+12:46:29.774 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+12:46:40.372 [fork-1-event-thread] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is java. We currently support frameworks testng, cucumber-testng & serenity
+12:46:41.951 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:46:51.480 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:46:51.481 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+16:12:15.420 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:14:24.169 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:01:32.061 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:06:18.369 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:08:59.336 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:10:51.946 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:15:42.885 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:22:23.896 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:24:22.952 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:18:46.950 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:24:11.310 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:28:21.061 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:38:29.352 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:41:40.113 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:47:54.074 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:51:21.795 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:54:06.514 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:54:41.940 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:55:11.587 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:55:45.422 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:56:53.226 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:58:50.373 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:59:54.405 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:01:32.067 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:04:12.600 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:06:41.900 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:08:03.270 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:09:10.118 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:11:10.709 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:12:33.404 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:14:35.872 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:17:20.407 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:19:29.938 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:20:41.180 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:21:46.098 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:23:05.232 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:25:48.430 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:28:19.682 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:29:53.309 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:31:28.932 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:33:38.399 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:40:46.370 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:42:20.622 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:46:36.876 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:49:58.964 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:50:33.268 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:02:44.237 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:10:31.405 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:11:39.670 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:21:38.133 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:25:30.192 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:30:50.034 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:31:37.777 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:34:57.164 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:35:27.706 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:36:31.160 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:37:06.528 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:37:57.804 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:38:13.320 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:38:46.842 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:39:51.213 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:40:09.479 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:28:56.847 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:29:09.358 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:37:19.305 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:37:40.266 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:39:01.329 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:39:58.217 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:40:25.401 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:41:11.750 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:42:36.495 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:43:45.530 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:10:47.752 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:15:18.882 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:17:48.377 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:19:19.827 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:20:02.432 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:23:34.574 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:23:51.541 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:27:56.760 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:29:29.577 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:31:28.739 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:33:01.504 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:33:58.873 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:36:42.904 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:21:14.356 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:26:49.401 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:27:48.549 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:28:07.580 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:29:25.671 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:44:13.800 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:45:35.003 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:46:00.206 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:46:42.425 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:48:59.530 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:49:48.866 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:51:55.081 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:03:45.051 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:05:42.159 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:07:53.049 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:24:03.552 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:25:53.580 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:30:12.826 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:32:06.149 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:34:14.014 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:00:10.186 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:02:29.029 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:08:33.408 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:11:08.934 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:16:12.299 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:20:50.190 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:23:51.004 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:30:03.686 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:50:48.421 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:52:49.269 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:57:59.904 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+12:00:47.017 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:37:12.854 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:43:57.641 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:47:14.789 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:56:06.101 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:59:31.636 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:08:41.247 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:23:10.448 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:25:35.521 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:26:45.965 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:40:52.038 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:43:37.857 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:46:11.014 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:54:45.833 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:57:52.021 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:03:08.530 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:06:34.000 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:10:05.783 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:13:01.067 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:35:33.120 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:51:38.946 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:00:06.543 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:04:13.580 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:06:54.877 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:13:29.996 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:15:17.810 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:18:48.867 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:20:40.289 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:23:22.634 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:32:44.442 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:37:29.077 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:39:08.897 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:44:34.668 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:49:29.768 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:53:22.375 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:56:14.533 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:03:30.612 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:04:27.867 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:05:54.796 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:06:24.041 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:07:26.735 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:13:34.156 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:15:34.901 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:47:48.288 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:48:57.116 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:50:42.781 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:58:36.950 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:01:59.538 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:03:31.483 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:20:29.343 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:28:52.762 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+11:33:51.588 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:42:13.265 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:19:28.390 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:24:57.429 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:26:41.521 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:30:27.339 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:55:30.334 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:42:35.202 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:45:17.052 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:49:16.146 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:52:25.631 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:53:51.936 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:54:49.897 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:59:41.038 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+16:01:25.256 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:39:39.745 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:42:50.542 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:45:19.413 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:48:15.872 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:50:16.017 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:51:48.982 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:53:30.386 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:57:17.788 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:58:59.637 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+18:02:03.221 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+18:06:09.396 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+18:08:16.916 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+18:09:58.290 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:35:15.188 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:47:05.614 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:48:49.698 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+09:49:57.275 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:03:23.192 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:21:44.078 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:24:10.559 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:29:45.897 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+10:31:50.838 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:42:27.773 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:47:37.210 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+13:52:33.451 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:01:46.091 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:10:30.135 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:21:50.588 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:34:27.176 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:37:13.388 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:38:55.546 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:41:42.087 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:46:27.510 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+14:52:39.179 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:03:05.943 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:04:39.609 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:07:47.629 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:08:35.329 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:09:25.306 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:11:46.726 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:18:41.204 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:21:03.779 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:22:44.053 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:25:47.201 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:31:27.160 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:35:36.910 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:39:17.109 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+15:44:38.835 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:19:37.409 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:23:25.010 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:26:17.131 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:36:07.971 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:37:03.957 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:38:06.060 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:43:16.369 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:46:50.941 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:47:33.439 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:48:52.258 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:51:09.463 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:53:51.714 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity
+17:59:38.550 [main] WARN  c.b.config.BrowserStackConfig - Test Observability could not be enabled because framework detected is null. We currently support frameworks testng, cucumber-testng & serenity

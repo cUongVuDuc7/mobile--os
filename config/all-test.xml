@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OnPlus IOS">
+    <parameter name="platform" value="iOS device"/>
+    <listeners>
+        <listener class-name="helpers.MyListener"/>
+        <listener class-name="helpers.SuiteListener"/>
+    </listeners>
+    <test name="Login Test">
+        <classes>
+            <class name="tests.loginsignup.LoginTest">
+                <methods>
+                <include name="LG_1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Profile Test">
+        <classes>
+            <class name="tests.ProfileTest">
+                <methods>
+                <include name="PF_1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="sign up Test">
+        <classes>
+            <class name="tests.loginsignup.SignUpTest">
+                <methods>
+                    <include name="SU_1_2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

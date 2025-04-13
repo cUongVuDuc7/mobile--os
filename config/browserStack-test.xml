@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OnPlus Android" parallel="tests"  thread-count="2">
+    <parameter name="cloudPlatform" value="browserStack"></parameter>
+    <listeners>
+        <listener class-name="helpers.MyListener"/>
+    </listeners>
+    <test name="Login Test">
+        <classes><class name="tests.loginsignup.LoginTest"></class></classes>
+    </test>
+    <test name="Profile Test">
+        <classes><class name="tests.ProfileTest"></class></classes>
+    </test>
+</suite>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OnPlus Android">
+    <parameter name="cloudPlatform" value=""></parameter>
+    <parameter name="deviceName" value="iPhone 13"/>
+    <parameter name="version" value="17.6.1"/>
+    <parameter name="udid" value="00008110-0011384E3439A01E"/>
+    <parameter name="port" value="4724"/>
+    <parameter name="wdaLocalPort" value="8101"/>
+    <listeners>
+        <listener
+                class-name="helpers.MyListener">
+        </listener>
+    </listeners>
+    <test name="Sign Up Test">
+        <classes>
+            <class name="tests.loginsignup.SignUpTest" >
+                <methods>
+                    <include name="SU_1_2"/>
+<!--                    <include name="SU_3"/>-->
+<!--                    <include name="SU_4"/>-->
+<!--                    <include name="SU_5"/>-->
+<!--                    <include name="SU_6"/>-->
+<!--                    <include name="SU_7_8"/>-->
+<!--                    <include name="SU_9"/>-->
+<!--                    <include name="SU_10"/>-->
+<!--                    <include name="SU_11"/>-->
+<!--                    <include name="SU_12"/>-->
+<!--                    <include name="SU_13"/>-->
+<!--                    <include name="SU_15"/>-->
+<!--                    <include name="SU_16"/>-->
+<!--                    <include name="SU_17"/>-->
+<!--                    <include name="SU_18"/>-->
+<!--                    <include name="SU_19"/>-->
+<!--                    <include name="SU_20"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

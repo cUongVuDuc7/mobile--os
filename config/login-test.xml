@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OnPlus Android">
+    <parameter name="cloudPlatform" value=""></parameter>
+    <parameter name="deviceName" value=""/>
+    <parameter name="version" value=""/>
+    <parameter name="udid" value=""/>
+    <listeners>
+        <listener class-name="helpers.MyListener"/>
+    </listeners>
+    <test name="Login Test">
+        <classes>
+            <class name="tests.loginsignup.LoginTest">
+                <methods>
+                    <include name="LG_1"/>
+<!--                    <include name="LG_2"/>-->
+<!--                    <include name="LG_3"/>-->
+<!--                    <include name="LG_4"/>-->
+<!--                    <include name="LG_5"/>-->
+<!--                    <include name="LG_6"/>-->
+<!--                    <include name="LG_7"/>-->
+<!--                    <include name="LG_8"/>-->
+<!--                    <include name="LG_9_10"/>-->
+<!--                    <include name="LG_25"/>-->
+<!--                    <include name="LG_26"/>-->
+<!--                    <include name="LG_11"/>-->
+<!--                    <include name="LG_27"/>-->
+<!--                    <include name="LG_28"/>-->
+<!--                    <include name="LG_14"/>-->
+<!--                    <include name="LG_15"/>-->
+<!--                    <include name="LG_16"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
