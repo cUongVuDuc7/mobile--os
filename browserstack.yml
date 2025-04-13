@@ -1,0 +1,7 @@
+platforms:
+    - deviceName: iPhone 14 Pro
+      platformVersion: 16
+    - deviceName: iPhone XS
+      platformVersion: 15
+    - deviceName: iPhone 11
+      platformVersion: 14
